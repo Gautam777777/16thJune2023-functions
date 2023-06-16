@@ -106,5 +106,29 @@ let zFunction = ()=>{
     console.log(`Function z`)
 }
 //2.Function Calling/Invoking Area (Many time process)
-A();
-B();
+aFunction();
+bFunction();
+cFunction();
+dFunction();
+eFunction();
+fFunction();
+gFunction();
+hFunction();
+iFunction();
+jFunction();
+kFunction();
+lFunction();
+mFunction();
+nFunction();
+oFunction();
+pFunction();
+qFunction();
+rFunction();
+sFunction();
+tFunction();
+uFunction();
+vFunction();
+wFunction();
+xFunction();
+yFunction();
+zFunction();
